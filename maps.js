@@ -1,7 +1,5 @@
 // maps
 
-api_key = "AIzaSyCsFCN6i6evL-ojbpiQ6zy1IQup35sDSzc"
-
 var map;
 var directionsRenderer;
 var directionsService;
